@@ -35,7 +35,7 @@ The frontend remains deliberately simple, using only HTML and CSS, to ensure the
 4. Start the server:
 
    ```bash
-   node index.js
+   npm run dev
    ```
 
 5. Open your browser and go to `http://localhost:5500` to start chatting!
